@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideSharingSystem", "RideSharingSystem.csproj", "{7D8CCE30-563F-42CA-BB98-D7446D336FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8CCE30-563F-42CA-BB98-D7446D336FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8CCE30-563F-42CA-BB98-D7446D336FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8CCE30-563F-42CA-BB98-D7446D336FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8CCE30-563F-42CA-BB98-D7446D336FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B413FA8E-4144-42C0-B558-41C41263AAFB}
+	EndGlobalSection
+EndGlobal

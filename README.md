@@ -1,10 +1,11 @@
-:
 
-🚗 Ride Sharing System
-📋 Project Description
+*************************************************************🚗 Ride Sharing System***************************************************
+
+*************************📋 Project Description*****************************************
+
 The Ride Sharing System is a modern C# console application connecting passengers with drivers through an efficient digital platform, handling ride requests, payments, ratings, and administrative oversight.
 
-✨ Key Features
+******✨ Key Features******************
 👥 User Management
 🔐 Role-based access control (Passenger, Driver, Admin)
 
